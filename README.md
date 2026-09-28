@@ -1,5 +1,7 @@
 # ZhuaTech Quiz Agent｜知华科技智能出题助手系统
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech Quiz Agent 是上海如静知华信息科技有限公司面向“培训题库管理”场景推出的社区源码项目。面向企业培训与知识考核的题目生成、审核和组卷系统。依据授权材料生成可追溯题目，并通过人工审核进入题库。
 
 [知华科技官网](https://www.zhuatech.cn/) · Java 包名 `cn.zhuatech.quizagent` · API `POST /api/quizagent/run`
